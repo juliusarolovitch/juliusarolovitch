@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juliusarolovitch
-- 👀 I’m interested in biomedical technologies and mobile app development. 
-- 🌱 I’m currently learning Java, Kotlin, Swift, Python, and JS.
+- 👀 Interested in biotechnologies and game theory
+- 🌱 Code in Python, Swift, Matlab, JavaScript, C++, and C
 - 💞️ I’m looking to collaborate on any Health-tech, Fin-tech, or other open-ended hackathons.
-- 📫 How to reach me: julius.arolovitch@gmail.com
+- 📫 How to reach me: jarolovitch@pitt.edu
 
 <!---
 juliusarolovitch/juliusarolovitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
