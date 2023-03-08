@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juliusarolovitch
 - 👀 Interested in medrobotics and game theory.
 - 🌱 Code in Python, Swift, Matlab, JavaScript, C++, and C
-- 💞️ I’m looking to collaborate on any Health-tech, Fin-tech, or other open-ended hackathons.
 - 📫 How to reach me: jarolovitch@pitt.edu
 
 <!---
